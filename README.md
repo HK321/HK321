@@ -1,38 +1,91 @@
-# Hello, I'm Muhammad Haris Khan!
+# Hello, I'm Muhammad Haris Khan! 👋
 
-I'm a Backend Node.js and DevOps Engineer, skilled in creating efficient, scalable backend solutions and automating development processes. My expertise lies in integrating robust backend services with cutting-edge DevOps practices. Here's more about my professional focus and interests:
+I'm a **Backend Node.js and DevOps Engineer**, passionate about building efficient, scalable backend solutions and driving automation in development processes. With a strong focus on integrating backend services with cutting-edge DevOps practices, I aim to deliver reliable and optimized systems for modern applications. 
 
-- 🔭 I’m currently working on **microservices development using Node.js** and **optimizing workflows** at Retailo Technologies.
-- 🌱 I’m currently learning more about **cloud-native technologies** and **advanced Kubernetes deployment strategies**.
-- 👯 I’m looking to collaborate on **Node.js backend projects** and **innovative DevOps solutions**.
-- 🤔 I’m looking for help with **exploring next-gen infrastructure as code (IaC) practices**.
-- 💬 Ask me about **Node.js backend development, managing cloud infrastructures, CI/CD pipelines, and containerization**.
-- 📫 How to reach me: **You can drop me an email at kharis776@gmail.com or connect with me on LinkedIn [https://www.linkedin.com/in/mhariskhan12/]**.
-- 😄 Pronouns: **He/Him**.
-- ⚡ Fun fact: **I'm passionate about leveraging technology to solve real-world problems and streamline development processes**.
+## 🌟 Professional Focus & Interests
+- 🔭 **Currently Working On:** 
+  - **Developing microservices** with Node.js.
+  - **Optimizing DevOps workflows** and infrastructure at **Streamotion**.
+- 🌱 **Currently Learning:** 
+  - Advanced **cloud-native technologies** and **Kubernetes deployment strategies**.
+- 👯 **Looking to Collaborate On:** 
+  - Backend projects using **Node.js**.
+  - Innovative **DevOps solutions** for scalable systems.
+- 🤔 **Seeking Guidance On:** 
+  - Exploring **next-gen Infrastructure as Code (IaC)** practices.
+  - Transforming the development lifecycle with DevOps
+- 💬 **Ask Me About:** 
+  - Node.js backend development.
+  - Managing cloud infrastructures, CI/CD pipelines, and containerization.
+- ⚡ **Fun Fact:** 
+  - I thrive on leveraging technology to solve **real-world problems** and streamline development processes.
+  
+## 📫 Let's Connect!
+- **Email:** [kharis776@gmail.com](mailto:kharis776@gmail.com)
+- **LinkedIn:** [linkedin.com/in/mhariskhan12](https://www.linkedin.com/in/mhariskhan12)
+- **GitHub:** [github.com/HK321](https://github.com/HK321)
 
-## Education
+---
 
-- **MS in Computer Science** from Lahore University of Management Sciences (LUMS).
-- **BS in Software Engineering** from the University of Agriculture, Faisalabad.
+## 🎓 Education
+- **MS in Computer Science** - Lahore University of Management Sciences (LUMS).
+- **BS in Software Engineering** - University of Agriculture, Faisalabad.
 
-## Professional Experience
+---
 
-- **Retailo Technologies:** Focusing on backend development using Node.js, creating microservices, and implementing DevOps strategies for system optimization.
-- **Creative Chaos:** Enhanced client-server interactions by integrating backend services developed in Node.js with various front-end applications.
-- **VNCLagoon:** Ensured high-quality code in our Node.js applications and managed Solr-based search services.
+## 💼 Professional Experience
 
-## Key Projects
+### **DevOps Engineer (Developer Experience)**  
+**Streamotion** | Remote  
+**Jun 2024 – Present**  
+- **PCI Compliance Leadership:** Played a key role in PCI compliance for five websites, reducing Source Defense costs by **30%**.  
+- **Feature Flags Implementation:** Integrated LaunchDarkly for flexible deployments, improving QA collaboration.  
+- **GitHub Workflow Optimization:** Refined CI/CD pipelines for efficiency and reduced complexity.  
+- **Merge Queues:** Streamlined development by reducing conflicts and improving developer experience.  
+- **Next.js Kubernetes Deployment:** Led scalable deployments using Helm, ArgoCD, and GitOps.
 
-- **Retailo Technologies:** Integral in backend service integration, using Node.js for developing microservices and automating deployment processes.
-- **Foxtons:** Developed Node.js backend services, improving data handling and user experience on the front end.
-- **Column PBC:** Led backend testing and CI/CD pipeline optimization for a large-scale broadcasting system using Node.js.
+### **Sr. Software Engineer**  
+**Retailo Technologies** | Remote  
+**Apr 2022 – Mar 2024**  
+- Spearheaded the development of **core system workflows**, enhancing catalog, order, and invoicing processes.  
+- Transitioned from a monolithic to a **microservices architecture**, improving scalability and maintainability.  
+- Integrated Retailo’s invoicing system with **ZATCA**, ensuring compliance and system reliability.
 
-## Technical Skills
+### **Sr. Software Engineer**  
+**Creative Chaos** | Remote  
+**Oct 2021 – Dec 2022**  
+- Optimized backend solutions for data retrieval and processing from Hubspot CRM.  
+- Enhanced system architecture, enabling scalable full-stack applications.
 
-- **Backend Frameworks:** Proficient in Node.js frameworks such as Express, NestJS, and Sails.js.
-- **Databases:** Experienced with MySQL, PostgreSQL, DynamoDB, and MongoDB, optimizing data storage and retrieval for Node.js applications.
-- **DevOps:** Skilled in AWS, Azure, GCP, Docker, Kubernetes, Jenkins, and GitLab CI/CD, focusing on automation and efficient deployment.
-- **Languages:** Proficient in JavaScript (Node.js), PHP, Python, and Java.
+### **Sr. Software Engineer**  
+**VNCLagoon Pvt. Ltd** | Remote  
+**Aug 2020 – Sep 2021**  
+- Transitioned to a backend-focused role, enhancing **code quality** and system performance.  
+- Developed scalable backend services for MERN and LAMP stacks in an agile environment.
 
-Feel free to reach out if you're interested in discussing backend Node.js solutions, DevOps practices, or any tech-related topics!
+---
+
+## 🛠️ Technical Skills
+
+### **Backend Development**
+- **Node.js Frameworks:** Express, NestJS, Sails.js  
+- **API Design:** REST, GraphQL  
+
+### **Cloud & DevOps**
+- **Cloud Platforms:** AWS, Google Cloud Platform  
+- **Containerization & Orchestration:** Docker, Kubernetes, Helm  
+- **CI/CD Tools:** GitHub Actions, Jenkins, ArgoCD  
+
+### **Databases**
+- **Relational Databases:** MySQL, PostgreSQL  
+- **NoSQL Databases:** MongoDB, DynamoDB  
+
+---
+
+## 🏆 Certifications & Awards
+- **KCNA (Kubernetes and Cloud Native Associate)** - The Linux Foundation | **Apr 2024**  
+  [View Credential](https://www.credly.com/badges/a1574606-5f13-4b8e-b19d-29dffe9557fa)  
+
+---
+
+Feel free to reach out if you'd like to collaborate or discuss any of the above topics!
